@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2436" started-at="2018-09-12T09:53:32Z" finished-at="2018-09-12T09:53:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2436" started-at="2018-09-12T09:53:32Z" finished-at="2018-09-12T09:53:35Z">
+      <class name="petStoredemo.SimplePost">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:petStoredemo.SimplePost@cb5822]" name="beforeClass" is-config="true" duration-ms="292" started-at="2018-09-12T15:23:32Z" finished-at="2018-09-12T15:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testpost()[pri:0, instance:petStoredemo.SimplePost@cb5822]" name="testpost" duration-ms="2130" started-at="2018-09-12T15:23:32Z" finished-at="2018-09-12T15:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpost -->
+      </class> <!-- petStoredemo.SimplePost -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
