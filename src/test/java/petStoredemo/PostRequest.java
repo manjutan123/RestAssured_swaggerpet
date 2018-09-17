@@ -15,7 +15,7 @@ import java.util.ArrayList;
 	import static io.restassured.RestAssured.given;
     import petStoredemo.Addpayload1;
     
-	public class OrderPostsimple {
+	public class PostRequest {
 
 		@Test
 		public void testpost()

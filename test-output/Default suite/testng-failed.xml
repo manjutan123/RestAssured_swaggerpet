@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="petStoredemo.ResponseTime">
+      <class name="petStoredemo.PostRequest">
         <methods>
-          <include name="GetResponseTime"/>
-          <include name="afterClass"/>
+          <include name="testpost"/>
           <include name="beforeClass"/>
         </methods>
-      </class> <!-- petStoredemo.ResponseTime -->
+      </class> <!-- petStoredemo.PostRequest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
